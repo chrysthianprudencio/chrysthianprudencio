@@ -24,11 +24,11 @@
 <a href="https://www.linkedin.com/in/chrysthianprudencio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div>
-<a href="https://github.com/chrysthianprudencio">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Chrysthian's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrysthianprudencio&theme=algolia&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrysthianprudencio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/chrysthianprudencio/chrysthianprudencio/blob/output/github-contribution-grid-snake.svg)
 
 
 
