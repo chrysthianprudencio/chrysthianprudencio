@@ -22,7 +22,6 @@
 <div>
 <a href = "mailto:chrysthianprudencio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/chrysthianprudencio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-![](https://dcbadge.vercel.app/api/shield/882270651354841099)
 </div>
 
 ![Chrysthian's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrysthianprudencio&theme=algolia&show_icons=true)
