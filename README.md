@@ -31,6 +31,8 @@
 
 ![Chrysthian's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrysthianprudencio&theme=algolia&show_icons=true)
 
+![](https://komarev.com/ghpvc/?username=chrysthianprudencio)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrysthianprudencio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/chrysthianprudencio/chrysthianprudencio/blob/output/github-contribution-grid-snake.svg)
